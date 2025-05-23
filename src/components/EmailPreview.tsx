@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Monitor, Smartphone, Tablet } from 'lucide-react';
+import { Monitor, Smartphone, Tablet, Mail } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 interface EmailPreviewProps {
